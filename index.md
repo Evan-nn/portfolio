@@ -3,7 +3,7 @@ layout: home
 title: Accueil
 ---
 
-# Evan
+# Evan DELARBRE
 
 Développeur web passionné par la création de solutions modernes et efficaces.
 
